@@ -1,7 +1,7 @@
 # Exp - 3 RAILWAY MANAGEMENT SYSTEM
 
 # AIM:
-o develop the Online Ticket Reservation System using Star UML tool.
+To develop the Online Ticket Reservation System using Star UML tool.
 # SRS (Procedure):
 1.An E-Ticket (Electronic ticket) is a paperless electronic document used for ticketing passengers, particularly in the commercial airline, railway industries.
 
