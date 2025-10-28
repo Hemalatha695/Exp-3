@@ -3,16 +3,17 @@
 # AIM:
 To develop the Online Ticket Reservation System using Star UML tool.
 # SRS (Procedure):
-1.An E-Ticket (Electronic ticket) is a paperless electronic document used for ticketing passengers, particularly in the commercial airline, railway industries.
+1.A Ticket Reservation System is a computerized system designed to manage ticket booking and reservation processes for various modes of transport such as buses, trains, and flights. It replaces traditional manual ticketing with a fast, accurate, and reliable digital process.
 
-2.An E-Ticket offers many advantages for both travelers and airline including security, flexibility and cost convenience. At the same time, it also provides the standard assurance of the traditional paper ticket, scaling choice, travel time options and other flexibilities.
+The system allows users to check the availability of seats, view schedules, and book or cancel tickets online. It offers advantages such as time efficiency, accuracy, and convenience, while also reducing paperwork and human error in the ticketing process.
 
-3.Passengers typically print out copies of their E-Ticket including confirmation E-mail and other document. All those documents can be replaced by pulling them out of the computer again and only a person with proper identification can actually use an E-Ticket.
+Registered users can easily log in to the system, select their desired destination, date, and time of travel, and make secure online payments. After a successful transaction, the system automatically generates an E-Ticket that can be saved, printed, or accessed digitally at any time.
 
-4.E-Ticket passengers can receive everything from gate assignments to cancellation or delay through E-mail, text messages sent to their home or business computers or to their cell phones.
+The admin panel allows administrators to manage routes, schedules, ticket prices, and seat allocations. The system updates data in real time, ensuring that customers always see the latest information on available tickets and timings.
 
-5.Finally, using E-Ticket is a more environmental friendly approach. The main purpose of the online bus ticket system is to provide another way for transnational customers to buy their tickets.
+The system can also send notifications such as booking confirmations, cancellation details, and schedule updates via email or SMS, making it highly user-friendly and responsive.
 
+Overall, the Ticket Reservation System improves customer satisfaction and operational efficiency by providing a secure, flexible, and eco-friendly way to reserve tickets. It saves time, reduces cost, and supports a modern, paperless approach to travel management.
 UML DIAGRAMS:
 # DIAGRAMS:
 USECASE DIAGRAM 
